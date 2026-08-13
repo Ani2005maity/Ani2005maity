@@ -35,6 +35,11 @@
 - ChatGPT & LLM-assisted workflows
 
 ---
+## 🐍 Watch My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/snake-dark.svg" />
+</p>
 
 ## 🌐 Connect With Me
 
