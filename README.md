@@ -36,58 +36,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📚 Student Management System
-
-A console-based C++ application to manage student records.
-
-**Features:**
-- Create, Read, Update, Delete operations
-- Search and manage student information
-- File handling for persistent storage
-- STL vectors for data management
-
-**Tech:** C++, OOP, STL, File Handling
-
----
-
-### 📖 Library Management System
-
-A modular C++ application for managing library operations.
-
-**Features:**
-- Book management
-- Member management
-- Issue and return transactions
-- Persistent data storage
-
-**Tech:** C++, OOP, STL, File Handling
-
----
-
-### 🏦 Banking Management System
-
-A banking application developed to handle basic banking operations.
-
-**Features:**
-- Account creation
-- Deposit and withdrawal
-- Balance enquiry
-- Transaction management
-
-**Tech:** C++, SQL
-
----
-
-## 📜 Certifications
-
-- Google Data Analytics Professional Certificate
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- AI Tools & ChatGPT Workshop
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
