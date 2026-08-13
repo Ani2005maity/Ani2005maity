@@ -36,16 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ani2005maity&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
