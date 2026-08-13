@@ -90,11 +90,13 @@ A banking application developed to handle basic banking operations.
 
 ## 📊 GitHub Stats
 
-![Anirban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ani2005maity&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani2005maity&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Ani2005maity&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani2005maity&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</p>
 
 ## 🌐 Connect With Me
 
@@ -104,7 +106,7 @@ A banking application developed to handle basic banking operations.
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge](https://www.linkedin.com/in/anirban-maity-4161a72ab/)&logo=linkedin">
 </a>
 </p>
 
