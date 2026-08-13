@@ -92,22 +92,24 @@ A banking application developed to handle basic banking operations.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ani2005maity&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani2005maity&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ani2005maity&theme=tokyonight"/>
 
 </p>
 
+---
+
 ## 🌐 Connect With Me
 
-<p>
+<p align="left">
+
 <a href="https://github.com/Ani2005maity">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge](https://www.linkedin.com/in/anirban-maity-4161a72ab/)&logo=linkedin">
+<a href="https://www.linkedin.com/in/anirban-maity-4161a72ab/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 ---
