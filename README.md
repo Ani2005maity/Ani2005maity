@@ -37,8 +37,6 @@
 ---
 ## 🐍 Watch My Contributions
 
-## 🐍 Watch My Contributions
-
 <p align="center">
   <picture>
     <source
