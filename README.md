@@ -38,7 +38,7 @@
 ## 🐍 Watch My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ## 🌐 Connect With Me
