@@ -37,16 +37,24 @@
 ---
 ## 🐍 Watch My Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/snake-dark.svg">
+## 🐍 Watch My Contributions
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/snake.svg">
-
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
 
 ## 🌐 Connect With Me
 
