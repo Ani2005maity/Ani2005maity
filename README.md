@@ -37,9 +37,16 @@
 ---
 ## 🐍 Watch My Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/Ani2005maity/Ani2005maity/output/snake.svg">
+</picture>
 
 ## 🌐 Connect With Me
 
