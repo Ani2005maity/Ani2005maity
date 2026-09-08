@@ -1,20 +1,20 @@
-# Hi 👋, I'm Anirban Maity
+# Hi, I'm Anirban Maity
 
 ### Computer Science Engineering Student | C++ Developer | Problem Solver
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.Tech Computer Science Engineering student at **KIIT University**
-- 💻 Passionate about **C++, Data Structures & Algorithms, and Software Development**
-- 🧠 Interested in building efficient solutions using **OOP, STL, and problem-solving techniques**
-- 🔍 Exploring AI-assisted development workflows using **LLM tools**
-- ⚡ I enjoy solving challenging problems and improving my coding skills
+-  B.Tech Computer Science Engineering student at **KIIT University**
+-  Passionate about **C++, Data Structures & Algorithms, and Software Development**
+-  Interested in building efficient solutions using **OOP, STL, and problem-solving techniques**
+-  Exploring AI-assisted development workflows using **LLM tools**
+-  I enjoy solving challenging problems and improving my coding skills
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 - C
@@ -35,7 +35,7 @@
 - ChatGPT & LLM-assisted workflows
 
 ---
-## 🐍 Watch My Contributions
+##  Watch My Contributions
 
 <p align="center">
   <picture>
@@ -70,4 +70,4 @@
 
 ---
 
-⭐ Building, Learning & Improving Every Day 🚀
+ Building, Learning & Improving Every Day 
