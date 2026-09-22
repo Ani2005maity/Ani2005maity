@@ -17,7 +17,7 @@
 ##  Technical Skills
 
 ### Programming Languages
-- C
+- Python
 - C++
 - SQL
 
